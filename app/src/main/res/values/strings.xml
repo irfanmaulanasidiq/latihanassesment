@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Bangun Data</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nama_irfan_maulana_s">Nama : Irfan Maulana S</string>
+    <string name="nim_6706184010">Nim : 6706184010</string>
+    <string name="kelas_d3if_42_04">Kelas : D3IF 42_04</string>
+    <string name="bangun_data">bangun_data</string>
+    <string name="about">About</string>
+    <string name="segitiga">segitiga</string>
+    <string name="persegi_panjang">persegi_panjang</string>
+
+    <string name="share_text">luas :%1$d, keliling : %2$d</string>
+    <string name="share">Share</string>
+</resources>
